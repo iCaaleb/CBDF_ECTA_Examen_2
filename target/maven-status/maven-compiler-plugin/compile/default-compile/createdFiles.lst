@@ -1,0 +1,6 @@
+com\upiiz\examen2\Examen2Application.class
+com\upiiz\examen2\controllers\ShippingController.class
+com\upiiz\examen2\services\ShippingService.class
+com\upiiz\examen2\repositories\ShippingRepository.class
+com\upiiz\examen2\models\ShippingEntity.class
+com\upiiz\examen2\config\OpenAPIConfig.class
